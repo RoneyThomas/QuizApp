@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Space Quiz App</string>
+
+    <string name="quiz_1">When was Apollo 11 launched ?</string>
+    <string name="quiz_1_a_choice">July 16, 1969</string>
+    <string name="quiz_1_b_choice">July 11, 1969</string>
+    <string name="quiz_1_c_choice">July 12, 1968</string>
+    <string name="quiz_1_d_choice">July 24, 1969</string>
+
+    <string name="quiz_2">Which of the following spacecraft\'s have been to Mercury ? \n<i>Choose all that applies</i></string>
+    <string name="quiz_2_a_choice">Mariner 10</string>
+    <string name="quiz_2_b_choice">Messenger</string>
+    <string name="quiz_2_c_choice">Viking 1</string>
+    <string name="quiz_2_d_choice">Cassini–Huygens</string>
+
+    <string name="quiz_3">What is the name of telescope shown here ?</string>
+    <string name="quiz_3_a_choice">Hubble Space Telescope</string>
+    <string name="quiz_3_b_choice">Chandra X-ray Observatory</string>
+    <string name="quiz_3_c_choice">James Webb Space Telescope</string>
+    <string name="quiz_3_d_choice">Herschel Space Observatory</string>
+
+    <string name="quiz_4">Pick all the astronauts in Apollo 11 ?</string>
+    <string name="quiz_4_a_choice">Neil Armstrong</string>
+    <string name="quiz_4_b_choice">Buzz Aldrin</string>
+    <string name="quiz_4_c_choice">Michael Collins</string>
+    <string name="quiz_4_d_choice">Alan Shepard</string>
+
+    <string name="quiz_5">What is the full form of JAXA ?</string>
+    <string name="quiz_5_ans">japan aerospace exploration agency</string>
+
+    <string name="submit">SUBMIT</string>
+
+    <string name="positive_feedback">You got %1$d out of 5 correct "\uD83D\uDC4F"</string>
+    <string name="negative_feedback">Work hard \uD83D\uDE13</string>
+
+</resources>

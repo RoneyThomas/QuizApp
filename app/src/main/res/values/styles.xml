@@ -1,0 +1,31 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+        <!-- Customize your theme here. -->
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="colorPrimary">@color/colorBackground</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowBackground">@color/colorBackground</item>
+        <item name="actionBarStyle">@style/AppTheme.ActionBar</item>
+    </style>
+
+    <style name="AppTheme.ActionBar" parent="style/Widget.AppCompat.Light.ActionBar.Solid.Inverse">
+        <item name="elevation">0dp</item>
+    </style>
+
+    <style name="AppTheme.Base">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="AppTheme.TextView" parent="AppTheme.Base">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="AppTheme.Base.Spacing" parent="AppTheme.Base">
+        <item name="android:layout_marginBottom">@dimen/quiz_spacing</item>
+    </style>
+
+</resources>
